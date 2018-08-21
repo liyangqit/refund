@@ -1,0 +1,19 @@
+﻿
+本源码和视频来自黎明互联官方 http://www.liminghulian.com/   
+
+如果没有以前支付宝支付的代码 请按如下操作
+开发时本demo需要修改Base.php中的常量信息以及refund.php  改成自己的信息
+如果有以前支付宝支付的代码 只需要一个refund.php这个文件就可以
+
+
+然后可以直接访问调用调试
+
+
+有问题联系黎明互联官方   访问官网可查看更多视频资源 http://www.liminghulian.com/   
+
+QQ群425347611
+
+微信公众号 liminghulian
+
+官网联系方式
+https://www.liminghulian.com/page/aboutus
